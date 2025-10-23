@@ -2,6 +2,11 @@
 
 A beautiful and modern terminal music player with TUI interface!
 
+<div align="center">
+<img src="print.png" width="500"/>
+</div>
+
+
 ## ✨ Features
 
 - 🎨 **12 Visual Themes**: Dark, Light, Synthwave, Ocean, Forest, Cyberpunk, Neon, Retro, Sunset, Matrix, Arctic, Fire
@@ -70,3 +75,4 @@ Press **T** to cycle through themes:
 *"하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 그를 믿는 자마다 멸망하지 않고 영생을 얻게 하려 하심이라"*  
 *"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."*  
 *John 3:16*
+
